@@ -1,0 +1,23 @@
+* {
+
+box-sizing: border-box;
+
+}
+
+.header {
+
+    height: 85px;
+    color: aquamarine;
+}
+
+.container {
+
+    width: 1200px;
+    margin:0 auto
+
+}
+
+.uliki {
+
+    float: right;
+}
