@@ -21,3 +21,15 @@ box-sizing: border-box;
 
     float: right;
 }
+li {
+    list-style-type: none;
+}
+.header li {
+    float: left
+}
+
+.image {
+    height: 700px;
+    background-image: url(../img/nebo.jpg);background-position: center;background-repeat: no-repeat;
+
+}
