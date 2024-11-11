@@ -1,0 +1,49 @@
+@media all and (max-width: 800px)
+{
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .header {
+    
+        background: rgb(236, 185, 15); height: 50px;
+    
+    }
+    
+    .background {
+    
+        background-color:brown;
+    
+    }
+    
+    .background-left {
+    
+        background: green; height: 300px; width: 200px;
+    
+    }
+    
+    .background-right {
+    
+        background: rgb(226, 16, 191); height: 300px; width: 200px; 
+    
+    }
+    
+    .background-lorem {
+    
+        background-color: aqua; margin: 0 200px;
+    }
+    
+    .rasporka {
+    
+        clear: both; height: 10px; background-color: black;
+    }
+    
+    .footer {
+    
+        background: violet; height: 50px;
+    }
+
+}

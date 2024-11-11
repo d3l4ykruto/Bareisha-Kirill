@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+
+    background: red; height: 50px;
+
+}
+
+.background {
+
+    background-color:brown;
+
+}
+
+.background-left {
+
+    background: green; height: 300px; width: 200px; float: left;
+
+}
+
+.background-right {
+
+    background: blue; height: 300px; width: 200px; float: right;
+
+}
+
+.background-lorem {
+
+    background-color: aqua; margin: 0 200px;
+}
+
+.rasporka {
+
+    clear: both; height: 10px; background-color: black;
+}
+
+.footer {
+
+    background: violet; height: 50px;
+}
