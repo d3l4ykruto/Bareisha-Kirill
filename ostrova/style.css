@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imageback {
+    background-image: url('png/imageback.png'); background-repeat: no-repeat;
+    background-position: center top;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    margin: 44px;
+    top: 24px;
+    height: 65px;
+}
+
+a{
+    color:inherit;
+}
+
+.header a{
+text-decoration: none;
+text-transform: uppercase;
+}
